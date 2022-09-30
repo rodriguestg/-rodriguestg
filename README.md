@@ -6,7 +6,7 @@
   <a href="mailto:trab.rodrigues@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href = "https://www.hackerrank.com/trab_rodrigues"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5511920006007" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="Behance: https://www.behance.net/gabrielrodris/" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+  <a href="Behance: "https://www.behance.net/gabrielrodris/" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
 </div>
 <br>
 
