@@ -14,16 +14,16 @@
 
 <p>Amo praticar esportes, como futebol e natação, gosto de ter sempre um bom livro me acompanhando, de planejar boas viagens e participar de eventos radicais, além de ter amor em ser design e desenvolvedor web!
 
-Eu estudo Desenvolvimento Web Full-Stack na Trybe, já sou sou certificado como desenvolvedor front-end, sabendo Javascript, React, Redux, API Context, CSS e HTML, atualmente estou estudando back-end e tenho aprendido e praticado bastante Docker, MySQL, Node, Typescript, MongoDB e Python.
-
-Na Trybe temos a oportunidade de praticar muito a arte de codar e resolver desafios, em um ano de curso, são mais de 40 projetos entre atividades em grupo e individuais.</p>
-</div>
-
 - 🏊 Os meus hobbies são: futebol, natação, bike, streamings e uma boa leitura.
 - 📍 Mauá, São Paulo, Brasil
+  
+Eu estudo Desenvolvimento Web Full-Stack na Trybe, onde já obtive a certificação de desenvolvedor front-end, sabendo Javascript, React, Redux, API Context, CSS e HTML, atualmente estou estudando back-end, onde tenho aprendido e praticado bastante Docker, MySQL, Node, Typescript, MongoDB e Python.
 
-##
+Na Trybe temos a oportunidade de praticar muito a arte de codar e resolver desafios, em um ano de curso, são mais de 40 projetos entre atividades em grupo e individuais.</p>
 
+</div>
+## Um pouco sobre minha vida tech:
+https://rodriguestg.github.io/
 
 <div align="center">
 
@@ -39,6 +39,7 @@ Na Trybe temos a oportunidade de praticar muito a arte de codar e resolver desaf
   <td align="center" >
     <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> 
+<!--     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">  -->
   </td>
   <td align="center" >
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -53,6 +54,7 @@ Na Trybe temos a oportunidade de praticar muito a arte de codar e resolver desaf
     <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
     <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"> 
     <img alt="JSON Web Tokens" src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000.svg?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white">
+    <img alt="MySQL WorkBench" src="https://img.shields.io/badge/MySQL%20WorkBench-404D59?style=for-the-badge">
     <!-- Em andamento 
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">
     <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white">
@@ -61,9 +63,7 @@ Na Trybe temos a oportunidade de praticar muito a arte de codar e resolver desaf
   <td align="center" >
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
     <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
-    <!-- Em andamento
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> 
-    -->
   </td>
 <tr>
   
