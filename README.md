@@ -136,4 +136,6 @@ https://rodriguestg.github.io/
    <img align="center" alt="Tiemi-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
    <img align="center" alt="Tiemi-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 </h3>
-##
+
+  - [Trybe Futebol Clube](https://github.com/rodriguestg/gabriel-rodrigues-tfc)
+  - [Commerce - MongoDB](https://github.com/rodriguestg/gabriel-rodrigues-mongodb-commerce)
