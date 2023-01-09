@@ -124,14 +124,14 @@ https://rodriguestg.github.io/
    <img align="center" alt="Tiemi-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
    <img align="center" alt="Tiemi-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    </h3>
-  
-  - [App de Receitas](https://github.com/rodriguestg/gabriel-rodrigues-g17-app-receitas)
-  
    <h3>
    💻 Front-end
    <img align="center" alt="Tiemi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img align="center" alt="Tiemi-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 </h3>
+    
+  - [App de Receitas](https://github.com/rodriguestg/gabriel-rodrigues-g17-app-receitas)
+  
 <h3>
    👩‍🍳 Back-end
    <img align="center" alt="Tiemi-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
