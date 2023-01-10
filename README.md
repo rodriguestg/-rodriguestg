@@ -131,6 +131,7 @@ https://rodriguestg.github.io/
 </h3>
     
   - [App de Receitas](https://github.com/rodriguestg/gabriel-rodrigues-g17-app-receitas)
+  - [Front-End Online Store!](https://github.com/rodriguestg/gabriel-rodrigues-g25-frontend-online-store)
   
 <h3>
    👩‍🍳 Back-end
