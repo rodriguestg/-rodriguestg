@@ -130,6 +130,7 @@ https://rodriguestg.github.io/
    <img align="center" alt="Tiemi-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 </h3>
     
+  - [Carrinho de Compras](https://github.com/rodriguestg/gabriel-rodrigues-shopping-cart)
   - [App de Receitas](https://github.com/rodriguestg/gabriel-rodrigues-g17-app-receitas)
   - [Front-End Online Store!](https://github.com/rodriguestg/gabriel-rodrigues-g25-frontend-online-store)
   
