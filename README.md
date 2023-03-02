@@ -17,7 +17,7 @@
 - 🏊 Os meus hobbies são: futebol, natação, bike, streamings e uma boa leitura.
 - 📍 Mauá, São Paulo, Brasil
   
-Eu estudo Desenvolvimento Web Full-Stack na Trybe, onde já obtive a certificação de desenvolvedor front-end, sabendo Javascript, React, Redux, API Context, CSS e HTML, atualmente estou estudando back-end, onde tenho aprendido e praticado bastante Docker, MySQL, Node, Typescript, MongoDB e Python.
+Eu estudo Desenvolvimento Web Full-Stack na Trybe, onde já obtive a certificação de desenvolvedor front-end e back-end, sabendo Javascript, React, Redux, API Context, Docker, MySQL, Node, Typescript, MongoDB, CSS e HTML, atualmente estou estudando Ciência da computação, onde tenho aprendido e praticado bastante Python.
 
 Na Trybe temos a oportunidade de praticar muito a arte de codar e resolver desafios, em um ano de curso, são mais de 40 projetos entre atividades em grupo e individuais.</p>
 
