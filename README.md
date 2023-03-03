@@ -125,14 +125,29 @@ https://rodriguestg.github.io/
    <img align="center" alt="Tiemi-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    </h3>
    <h3>
+     
+       - [Lessons Learned](https://github.com/rodriguestg/gabriel-rodrigues-lessons-learned)
+       - [Playground Functions](https://github.com/rodriguestg/gabriel-rodrigues-playground-functions)
+       - [Pixels Art](https://github.com/rodriguestg/gabriel-rodrigues-pixels-art)
+       - [Trybewarts](https://github.com/rodriguestg/gabriel-rodrigues-trybewarts)
+       - [JavaScript - Testes Unitários](https://github.com/rodriguestg/gabriel-rodrigues-unit-tests)
+       - [Zoo Functions](https://github.com/rodriguestg/gab-rodrigues-zoo-functions)
+     
    💻 Front-end
    <img align="center" alt="Tiemi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img align="center" alt="Tiemi-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 </h3>
     
   - [Carrinho de Compras](https://github.com/rodriguestg/gabriel-rodrigues-shopping-cart)
-  - [App de Receitas](https://github.com/rodriguestg/gabriel-rodrigues-g17-app-receitas)
+  - [Solar System](https://github.com/rodriguestg/gabriel-rodrigues-solar-system)
+  - [Tryunfo](https://github.com/rodriguestg/gab-rodrigues-tryunfo)
+  - [TrybeTunes](https://github.com/rodriguestg/gab-rodrigues-trybetunes)
   - [Front-End Online Store!](https://github.com/rodriguestg/gabriel-rodrigues-g25-frontend-online-store)
+  - [Testes em React](https://github.com/rodriguestg/gab-rodrigues-react-testing-rtl)
+  - [Trybe Wallet](https://github.com/rodriguestg/gabriel-rodrigues-trybewallet)
+  - [Jogo de Trivia](https://github.com/rodriguestg/gab-rodrigues-g9-trivia)
+  - [StarWars Datatable com Context API e Hooks](https://github.com/rodriguestg/gab-rodrigues-starwars-planets)
+  - [App de Receitas](https://github.com/rodriguestg/gabriel-rodrigues-g17-app-receitas)
   
 <h3>
    👩‍🍳 Back-end
@@ -142,5 +157,15 @@ https://rodriguestg.github.io/
    <img align="center" alt="Tiemi-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 </h3>
 
+  - [Docker Todo-List](https://github.com/rodriguestg/gab-rodrigues-docker)
+  - [All For One - MySQL](https://github.com/rodriguestg/gabriel-rodrigues-mysql-all)
+  - [One For All - MySQL](https://github.com/rodriguestg/gab-rodrigues-mysql-one)
+  - [Talker Manager](https://github.com/rodriguestg/gab-rodrigues-talker-manager)
+  - [Store Manager](https://github.com/rodriguestg/gab-rodrigues-store-manager)
+  - [API de Blogs](https://github.com/rodriguestg/gab-rodrigues-blogs-api)
+  - [Trybesmith](https://github.com/rodriguestg/gab-rodrigues-trybesmith)
+  - [Trybers and Dragons](https://github.com/rodriguestg/gab-rodrigues-dragons)
   - [Trybe Futebol Clube](https://github.com/rodriguestg/gabriel-rodrigues-tfc)
   - [Commerce - MongoDB](https://github.com/rodriguestg/gabriel-rodrigues-mongodb-commerce)
+  - [Car Shop](https://github.com/rodriguestg/gab-rodrigues-car-shop)
+  - [App de Delivery](https://github.com/rodriguestg/gabriel-rodrigues-g5-app-delivery)
