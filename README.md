@@ -17,7 +17,7 @@
 - 🏊 Os meus hobbies são: futebol, natação, bike, streamings e uma boa leitura.
 - 📍 Mauá, São Paulo, Brasil
   
-Eu sou certificado como Desenvolvimento Web Full-Stack na Trybe, onde já obtive a certificação de desenvolvedor front-end e back-end, sabendo Javascript, React, Redux, API Context, Docker, MySQL, Node, Typescript, MongoDB, CSS, HTML e Python. Atualmente estou praticando e acrescentando em minhas skills a linguagem PHP junto com o Laravel.
+Eu sou certificado em Desenvolvimento Web Full-Stack na Trybe, onde já obtive a certificação de desenvolvedor front-end e back-end, sabendo Javascript, React, Redux, API Context, Docker, MySQL, Node, Typescript, MongoDB, CSS, HTML e Python. Atualmente estou praticando e acrescentando em minhas skills a linguagem PHP junto com o Laravel.
 
 Na Trybe temos a oportunidade de praticar muito a arte de codar e resolver desafios, em um ano de curso, são mais de 40 projetos entre atividades em grupo e individuais.</p>
 
